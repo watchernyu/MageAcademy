@@ -1,0 +1,9 @@
+﻿  hw03.cpp
+hw03.cpp(207): warning C4244: 'argument' : conversion from 'const float' to 'Uint32', possible loss of data
+  Matrix.cpp
+Matrix.cpp(213): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Matrix.cpp(214): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  ShaderProgram.cpp
+  Generating code
+  Finished generating code
+  NYUCodebase.vcxproj -> C:\Users\Che\Desktop\##Courses##\GAME\librariestousemaybe\Windows\HW3\Release\NYUCodebase.exe
