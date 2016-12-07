@@ -1,7 +1,4 @@
-# MageAcademy
-
-A fast-paced 2-player game about magic duels!
-Play it on one computer with your friends for fun! :D
+Mage Academy
 
 Control:
 player1 (red, on the left)
